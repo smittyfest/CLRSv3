@@ -1,0 +1,10 @@
+1.1-1
+Give a real-world example that requires sorting or
+a real-world example that requires computing a convex hull.
+
+Solution :-
+Sorting: Sorting names lexicographically in order to 
+provide faster lookups, sorting items by timestamp 
+in order to evict the oldest.
+Convex-Hull: Finding the shortest-path when solid obstacles 
+are blocking the direct route.
